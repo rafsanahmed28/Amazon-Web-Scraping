@@ -1,5 +1,8 @@
 # Amazon-Web-Scraping
 
+![amazon](https://www.rafsanahmed.com/assets/amazon.png)
+
+
 Scraped product data from Amazon using BeautifulSoup and Pandas. The data is stored in a CSV file and is used for tracking price changes over time. 
 
 This project also includes the code for how you can email yourself whenever the product's price meets a certain requirement.
